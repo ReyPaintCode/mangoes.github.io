@@ -1,0 +1,14 @@
+Existing project :
+git init                                  //go inside the folder where we wish to keep the files
+git clone [paste url of repository]       //in this case mangoes.github.io
+git status
+cd mangoes.github.io
+git status                               //here we will be able to see the list of files 
+git add [file / folder name]
+git commit -m 'comment'
+git push origin master
+
+Existing username :
+git config user.name
+git config user.email
+
